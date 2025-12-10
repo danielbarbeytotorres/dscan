@@ -1,0 +1,2 @@
+echo "python-nmap" > requirements.txt
+echo "colorama" >> requirements.txt
